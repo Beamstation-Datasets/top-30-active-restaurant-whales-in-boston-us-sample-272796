@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Whales in Boston, US",
-  "export_job_id": "815cd986-e5fd-4b93-b981-3f6656ce1789",
+  "export_job_id": "723570d0-f820-4a00-9062-b4b9e30e86d8",
   "github_org": "Beamstation-Datasets",
   "id_short": 272796,
   "location_name": "Boston",
   "location_type": "city",
   "repo_name": "top-30-active-restaurant-whales-in-boston-us-sample-272796",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/272796/beamstation_272796_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_pct": 9.9,
+  "sample_pct": 9.88,
   "sample_records": 76,
-  "sample_sha256": "56d32a9d1a670400f4f77d942b791aef3e812217d0f8bc1907e8f74e248713ff",
-  "sample_size_bytes": 327563,
-  "total_records": 768,
-  "updated_at": "2026-04-07T17:38:43.651877+00:00"
+  "sample_sha256": "db088bd01914a21800b9cb42b531b8c9a161ba5874cc311041e6aebd1d6b6540",
+  "sample_size_bytes": 321398,
+  "total_records": 769,
+  "updated_at": "2026-04-14T23:09:58.880409+00:00"
 }
