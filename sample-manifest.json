@@ -1,12 +1,12 @@
 {
-  "export_job_id": "723570d0-f820-4a00-9062-b4b9e30e86d8",
+  "export_job_id": "b3cacb93-a291-4dee-864f-50add22f1049",
   "id_short": 272796,
-  "published_at": "2026-04-18T07:45:35Z",
+  "published_at": "2026-04-22T07:17:47Z",
   "repo_name": "top-30-active-restaurant-whales-in-boston-us-sample-272796",
   "sample_asset_name": "beamstation_272796_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/272796/beamstation_272796_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 76,
-  "sample_sha256": "db088bd01914a21800b9cb42b531b8c9a161ba5874cc311041e6aebd1d6b6540",
-  "sample_size_bytes": 321398,
-  "total_records": 769
+  "sample_records": 69,
+  "sample_sha256": "c29a50ac097e036adaacca170692c1a4a68b540bada9ec9fc0bddb888e403b16",
+  "sample_size_bytes": 294052,
+  "total_records": 695
 }
