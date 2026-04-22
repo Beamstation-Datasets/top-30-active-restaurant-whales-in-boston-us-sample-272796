@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Boston, US
 
-> Free BeamStation sample export with 76 rows and masked direct-contact fields.
+> Free BeamStation sample export with 69 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `272796` |
 | Location | Boston |
 | Category | Restaurants |
-| Full dataset size | 769 records |
-| Free sample size | 76 records (9.88%) |
-| Last export | 2026-04-14T23:09:58.880409+00:00 |
+| Full dataset size | 695 records |
+| Free sample size | 69 records (9.93%) |
+| Last export | 2026-04-22T02:30:13.026460+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-boston-us-sample-272796/releases/download/sample-latest/beamstation_272796_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
